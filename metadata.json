@@ -1,0 +1,7 @@
+{
+  "name": "Halal Product Identifier",
+  "description": "An intelligent application that uses AI to scan product ingredient lists from images or barcodes, identifying E-codes and other ingredients to determine their Halal, Haram, or Mushbooh status. It also features a helpful chatbot for user queries and a comprehensive user guide.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
